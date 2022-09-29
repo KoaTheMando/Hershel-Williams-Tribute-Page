@@ -1,0 +1,58 @@
+body{
+	background-image: url(https://i.insider.com/5c6c21612628985fcb2e9ac5?width=750&format=jpeg&auto=webp);
+  background-size: cover;
+}
+.myimg{
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:100%;
+}
+span{
+	margin: 5vw;
+}
+.myimg{
+  width:250px;
+  height:250px;
+  object-fit:fill;
+  border-radius:50%;
+}
+p {
+  color:darkred;
+}
+#header {
+  text-align: center;
+  font-family: "Arial Black";
+  color: darkred;
+}
+span {
+  text-align: center;
+  font-family: "Arial Black";
+  color: darkred;
+  margin: 5vw;
+}
+body {
+  font-family: "Arial";
+  color:darkred;
+  background-color: black;
+}
+#description {
+  text-align: center;
+  margin: auto;
+  width: 0 auto;
+}
+a {
+  color:darkred;
+}
+h1 {
+  font-family: "Times New Roman";
+}
+a {
+  font-family: "Times New Roman";
+}
+.myimg {
+  width:275px;
+  height:275px;
+  object-fit:fill;
+  border-radius:50%;
+}
